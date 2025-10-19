@@ -10,11 +10,11 @@
 1. clone repo : 
 
 	```bash
-	git clone https://github.com/VinzSenzoo/GopherAutoBot-NTE
+	[https://github.com/SRCryptoBoyz/CB-GOPHERB0T.git]
 	```
 
 	```bash
-	cd GopherAutoBot-NTE
+	cd CB-GOPHERB0T
 	```
 
 
