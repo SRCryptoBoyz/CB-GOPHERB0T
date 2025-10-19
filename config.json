@@ -1,0 +1,8 @@
+{
+  "stakeRepetitions": 1,
+  "goaiStakeRange": {
+    "min": 1,
+    "max": 2
+  },
+  "loopHours": 10
+}
