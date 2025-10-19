@@ -46,8 +46,3 @@
 ```bash
 	node index2.js
 ```
-
-
-## script by VinzSenzoo
-follow github : 
-https://github.com/VinzSenzoo
