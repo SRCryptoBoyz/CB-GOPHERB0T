@@ -10,7 +10,7 @@
 1. clone repo : 
 
 	```bash
-	[https://github.com/SRCryptoBoyz/CB-GOPHERB0T.git]
+	git clone https://github.com/SRCryptoBoyz/CB-GOPHERB0T.git
 	```
 
 	```bash
