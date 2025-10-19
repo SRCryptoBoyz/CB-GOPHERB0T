@@ -1,5 +1,3 @@
-# CB-GOPHERB0T
-
 # SCRIPT GOPHER TESTNET  AUTO BOT BY NT EXHAUST
 
 ## KEY FEATURES:
@@ -9,32 +7,45 @@
 - **More Features Soon** 
 
 ## SET UP 
-   ```bash
-git clone https://github.com/VinzSenzoo/GopherAutoBot-NTE```
+1. clone repo : 
 
-   ```bash
-cd GopherAutoBot-NTE```
+	```bash
+	git clone https://github.com/VinzSenzoo/GopherAutoBot-NTE
+	```
 
-## Install Dependencies
-   ```bash
-npm install```
+	```bash
+	cd GopherAutoBot-NTE
+	```
 
-## Enter Your Private KEY  or MNEMONIC
-   ```bash
-nano pk.txt```
 
-## If you want to use proxy , Enter Your Proxy
-   ```bash
-nano proxy.txt```
+2. Install Dependencies
+	```bash
+	npm install
+	```
 
-## Choose One: 
-# Run Bot for Mnemonic Version
-   ```bash
-node index1.js```
 
-#Run Bot for PrivateKey Version
+3. Enter Your Private KEY  or MNEMONIC
+	```bash
+	nano pk.txt
+	```
+
+
+4. If you want to use proxy , Enter Your Proxy
    ```bash
-node index2.js```
+	nano proxy.txt
+	```
+
+5. Choose One: 
+## Run Bot for Mnemonic Version
+	```bash
+	node index1.js
+	```
+
+
+## Run Bot for PrivateKey Version
+	```bash
+	node index2.js
+	```
 
 
 ## script by VinzSenzoo
