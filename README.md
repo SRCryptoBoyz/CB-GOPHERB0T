@@ -37,15 +37,15 @@
 
 5. Choose One: 
 ## Run Bot for Mnemonic Version
-	```bash
+```bash
 	node index1.js
-	```
+```
 
 
 ## Run Bot for PrivateKey Version
-	```bash
+```bash
 	node index2.js
-	```
+```
 
 
 ## script by VinzSenzoo
